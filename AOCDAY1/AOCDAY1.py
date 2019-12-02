@@ -49,4 +49,4 @@ def main2():
     new_fuel_total = new_mass_total
     return new_fuel_total
 
-print(main2())
+# print(main2())
